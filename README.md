@@ -103,7 +103,7 @@ python
 vertices = [
 (1, (x1, y1)),  # Vertex 1 with coordinates (x1, y1)
 (2, (x2, y2)),  # Vertex 2 with coordinates (x2, y2)
-# ... more vertices ...
+... more vertices ...
 ]
 
 # Contributing
