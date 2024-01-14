@@ -106,6 +106,15 @@ vertices = [
 ... more vertices ...
 ]
 
+Some Patterns
+
+ • Red dots and lines indicate control points and the path to them.
+
+ ![](./readme_img/3rxsxnt1.png)
+ ![](./readme_img/dzbovomz.png)
+ ![](./readme_img/azzz5a3k.png)
+
+
 # Contributing
 
 We welcome contributions to improve this project! To contribute, please follow these steps:
